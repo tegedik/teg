@@ -5,14 +5,14 @@
       "title": "About",
       "author": [],
       "contents": "\n\n\n\n\nThe Curse of Dimensionality by Saul Steinburg (1968)\n\n\n\n\n\nShort notes and quick applications from T.E.G. There will be a lack of organization inevitably. Although I am a novice, I answered some questions here:\n\n \n\n\n\n\n\n",
-      "last_modified": "2021-08-15T16:19:20+03:00"
+      "last_modified": "2021-08-15T16:23:19+03:00"
     },
     {
       "path": "index.html",
       "title": "Posts",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-15T16:19:21+03:00"
+      "last_modified": "2021-08-15T16:23:21+03:00"
     }
   ],
   "collections": ["posts/posts.json"]
